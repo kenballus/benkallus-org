@@ -11,9 +11,14 @@
 
 html {
     background-size: cover;
-    background-color: #e0e0e0;
+    background-color: #181a1b;
     font-family: monospace;
     font-size: 16pt;
+    color: #e8e6e3;
+}
+
+a {
+    color: #3391ff;
 }
 
 footer {
